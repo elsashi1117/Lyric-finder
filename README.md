@@ -6,4 +6,4 @@ Install dependencies
 <pre>npm install</pre>
 
 Serve on localhost:3000
-npm start
+<pre>npm start</pre>
