@@ -3,7 +3,7 @@ Simple app to search lyrics
 
 # Quick Start
 Install dependencies
-npm install
+<pre>npm install</pre>
 
 Serve on localhost:3000
 npm start
